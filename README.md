@@ -1,17 +1,40 @@
-# hello-cpp 👋
+# Curso de C++ desde Cero 🚀
 
-Este repositorio documenta mi proceso de aprendizaje de **C++ desde cero**. Aquí iré subiendo ejercicios, notas, recursos y experimentos mientras avanzo en el lenguaje.
+¡Bienvenido a mi ruta de aprendizaje de C++!  
+Este repositorio funciona como un **curso práctico y progresivo de C++**, pensado para aprender desde lo más básico hasta temas avanzados, incluyendo programación competitiva.
 
-## 🚀 ¿Por qué C++?
+---
 
-Estoy aprendiendo C++ por su potencia, velocidad y por ser uno de los lenguajes más utilizados en programación competitiva y desarrollo de sistemas. Más adelante, planeo enfocarme también en preparación para competencias como el **ICPC**.
+## 📌 Objetivo
 
-## 📚 Qué encontrarás aquí
+Crear un camino de aprendizaje en C++ bien estructurado, aplicando teoría y práctica con ejercicios reales.  
+Ideal para:
 
-- ✍️ **Notas personales** sobre sintaxis, funciones, punteros, estructuras de datos, etc.
-- 🔁 **Ejercicios resueltos** (desde los básicos hasta problemas más complejos).
-- 🧠 **Errores comunes** que cometo y cómo los corrijo.
-- 📦 **Proyectos mini** a medida que avance (calculadoras, simuladores, algoritmos, etc.)
+- Principiantes que quieren dominar C++
+- Estudiantes que se preparan para competencias como el ICPC
+- Personas autodidactas que buscan una guía práctica y clara
 
-## 🗂️ Estructura del repositorio
+---
+
+## 🧭 Ruta de Aprendizaje
+
+| Módulo | Tema | Descripción |
+|--------|------|-------------|
+| 1️⃣ | Fundamentos | Variables, tipos de datos, input/output, operadores |
+| 2️⃣ | Control de flujo | Condicionales, bucles, switch, lógica booleana |
+| 3️⃣ | Funciones | Declaración, argumentos, recursión básica |
+| 4️⃣ | Arreglos y Strings | Arreglos estáticos, strings, manipulación básica |
+| 5️⃣ | Estructuras de Datos | Vectores, pilas, colas, mapas, conjuntos (STL) |
+| 6️⃣ | Punteros y Memoria | Referencias, punteros, memoria dinámica |
+| 7️⃣ | Programación Orientada a Objetos | Clases, objetos, herencia, encapsulamiento |
+| 8️⃣ | Algoritmos clásicos | Búsqueda, ordenamiento, recursión avanzada |
+| 9️⃣ | Introducción a la Programación Competitiva | CSES, problemas ICPC, estructuras eficientes |
+
+Cada módulo incluye:
+- 📘 Apuntes explicativos
+- ✅ Ejercicios resueltos paso a paso
+- 🧠 Retos adicionales
+- 📝 Comentarios y buenas prácticas
+
+---
 
